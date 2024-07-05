@@ -8,4 +8,5 @@
 #mysql:5.7.37
 #mongo:latest
 #rabbitmq:latest
-rabbitmq:3.13.1-management
+#rabbitmq:3.13.1-management
+nginx:latest
