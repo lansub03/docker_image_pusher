@@ -9,4 +9,3 @@
 #mongo:latest
 #rabbitmq:latest
 rabbitmq:management
-
