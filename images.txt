@@ -10,3 +10,4 @@
 #rabbitmq:latest
 rabbitmq:3.13.1-management
 nginx:latest
+nacos-server:latest
